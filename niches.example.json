@@ -1,0 +1,49 @@
+{
+  "niches": [
+    {
+      "id": "car-ownership-costs",
+      "label": "Car ownership costs and reliability",
+      "rpm": 1.0,
+      "queries": {
+        "en": [
+          "cheap reliable used cars",
+          "cars that last forever",
+          "worst used cars to buy",
+          "cars dealers refuse on trade in",
+          "most reliable suv for seniors"
+        ],
+        "pt": [
+          "carros baratos que duram muito",
+          "carros usados mais confiáveis",
+          "carros que ninguém compra"
+        ]
+      }
+    },
+    {
+      "id": "household-brands",
+      "label": "Household and grocery brands worth buying or avoiding",
+      "rpm": 0.6,
+      "queries": {
+        "en": [
+          "brands to avoid and brands worth buying",
+          "grocery brands you should never buy",
+          "appliance brands to avoid",
+          "household products to stop buying"
+        ]
+      }
+    },
+    {
+      "id": "home-tech-help",
+      "label": "Home technology tips for older adults",
+      "rpm": 0.7,
+      "queries": {
+        "en": [
+          "smart tv settings you should turn off",
+          "router settings your internet provider doesn't tell you",
+          "phone settings seniors should change",
+          "things to turn off on your iphone seniors"
+        ]
+      }
+    }
+  ]
+}

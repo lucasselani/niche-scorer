@@ -1,0 +1,6 @@
+.env
+.yt-cache/
+niche-report*.json
+niche-report*.csv
+niches.json
+node_modules/
